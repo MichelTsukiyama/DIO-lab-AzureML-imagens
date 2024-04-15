@@ -8,7 +8,9 @@ Obs. optei por não criar um diretório com imagens utilizadas e retornos. Todo 
 ## Links
 
 https://aka.ms/ai900-face
+
 https://aka.ms/ai900-ocr
+
 https://aka.ms/ai900-image-analvsis
 
 --------
